@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(bck.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img1 {
+    width: 240px;
+    height: 240px;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+
+.header {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+h2 {
+    color: white;
+    font-family: 'Anek Bangla', sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.header h1 {
+    color: white;
+    font-family: 'Anek Bangla', sans-serif;
+    font-weight: bold;
+    font-size: 44px;
+}
+
+.header p1 {
+    color: rgb(180, 180, 180);
+    font-family: 'Anek Bangla', sans-serif;
+}
+
+.btn--start {
+    background-color: blueviolet;
+    border-style: none;
+    color: white;
+    font-family: 'Anek Bangla', sans-serif;
+    padding: 10px;
+    padding-inline: 20px;
+    margin-top: 50px;
+}
+
+.btn--start:hover {
+    border: 3px solid rgb(43, 226, 195);
+    color: white;
+    font-family: 'Anek Bangla', sans-serif;
+    padding: 10px;
+    padding-inline: 30px;
+    transition: 200ms;
+}
+
+.data--img-arrow {
+    margin-left: 15px;
+}
+
+.tekst1 {
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.personal-info li {
+    list-style: none;
+    color: white;
+    display: inline-block;
+    margin-right: 50px;
+    font-size: 15px;
+    font-family: 'Anek Bangla', sans-serif;
+    text-align: center;
+}
+
+.personal-info ul {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.personal-info p {
+    padding-top: 5px;
+}
+
+.section--1 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.education-text h1 {
+    color: white;
+    font-family: 'Anek Bangla', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.education-text p1 {
+    color: rgb(180, 180, 180);
+    font-family: 'Anek Bangla', sans-serif;
+}
+
+.skill-text h1 {
+    color: white;
+    font-family: 'Anek Bangla', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.skill-text p1 {
+    color: rgb(180, 180, 180);
+    font-family: 'Anek Bangla', sans-serif;
+}
+
+.about-text h1 {
+    color: white;
+    font-family: 'Anek Bangla', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.about-text p1 {
+    color: rgb(180, 180, 180);
+    font-family: 'Anek Bangla', sans-serif;
+}
+
+.edu-txt {
+    color: white;
+    font-family: 'Anek Bangla', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
