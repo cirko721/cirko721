@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @cirko721
 - 👀 I’m interested in Frontend developer.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.js
